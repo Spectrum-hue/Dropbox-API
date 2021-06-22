@@ -1,0 +1,41 @@
+Question 3
+
+An important aspect of software development is following the software development process - also known as the software development life cycle (SDLF).
+This entails deviding the process of software development into smaller, parallel or sequential steps or subprocesses to improve design, project management
+and product management. There is quite a few methodologies although a SDLC generally adhere to the stages of planning, defining, designing, building, testing and deployment.
+The waterfall model for example adhere to the phases of requirement analysis, system design, implementation, testing, deployment and maintenance.
+
+In terms of a web Application Programming Interface (API) it can be defined in general terms as "something that takes the request from a 
+client system to a web server and sends back the response from a web server to a client machine". Similar to the SDLC mentioned above an API lifecycle management
+approach can be used for a good web API. This entails the process of overseeing an API from its creation to retirement across its full lifespan. This includes everything from designing,
+publishing, documenting, securing and analyzing API's. One approach is to follow the 3 stages of Creation, Control and Consumption. All the stages and sub-stages (will be mentioned below) must be monitored/analyzed. The sub-stages of the creation stage include 
+modeling, orchestration, transforming and documentation. The Control stage referes to deployment, management, Security and scalability. Consumption - the final stage - refers to publishing, discovery,
+invocation and monetization. 
+
+The first step (modeling) of API lifecycle management begins with deciding the API endpoints which could be based on an existing database or goal-orientated. The next step (orchestration) involves integrating data
+from the sources being used. This is followed by the transforming stage where different data types and formats is converted such as XML files into JSON files. The final step is in this stage is to document how user' and
+developers can use your API'. The next stage entails Control is perhaps the most important and it entails the deployment of the API's to the target audience. The next step is management and this entails controling 
+who can access the API and how (Authorization). This step also defines how end users can consume an API via rate limiting. Lastly, scalability is the final step in controlling your API. It helps ensure that your API is 
+rugged and robust enough to account for unexpected traffic spikes without requiring manual monitoring.
+
+The final stage - consumption - controls how the API/API's is discovered. The sub-stage of publishing refer to where API's is published to API directories so that developers and end-users can find it. Here is also decided
+whether the API is for private or public use. If your API is intended for private usage, this could be achieved with an API catalog, which is an internal document featuring all in-house APIs and libraries. 
+If your API is meant for public consumption, this will be handled during the consumption stage, as well. The discovery phase is nearly as important as the entire control section to your API’s ultimate success, 
+especially if it’s intended for public consumption. This is how other developers will discover your API. It’s also where they’ll see how useful it is, so they 
+can decide if they want to integrate it into their development workflow or not. This means having an easy demo where developers can try out your API for themselves.
+Invocation is also an important step important step to your API’s success. This is how developers onboard to your service and call your API, sometimes via an SDK, which can be run in their preferred development environment.
+You can choose to offer your APIs for free or use it as an opportunity. This stage also involves setting rates and keeping track of data usage.
+Developing good API's with good Lifecycle management tools is this important. An Example of these tools include Apigee which is Google's API management platform.
+
+Internet sources:
+
+https://www.w3schools.com/js/js_api_intro.asp
+https://www.axway.com/en/products/api-management/full-lifecycle-api-management
+https://www.tutorialspoint.com/sdlc/sdlc_overview.htm
+https://www.softwaretestinghelp.com/api-testing-tutorial/#Web_API
+https://nordicapis.com/a-guide-to-api-lifecycle-management/
+https://apifriends.com/api-management/api-lifecycle-management/
+https://www.mulesoft.com/resources/api/what-is-full-lifecycle-api-management#:~:text=Full%20API%20lifecycle%20management%20is,%2C%20securing%2C%20and%20analyzing%20APIs.
+
+
+    
